@@ -51,6 +51,10 @@ https://chromewebstore.google.com/detail/proxy-rock/dkeknkogllphlkmcfdjllhpbpnmk
 - [ ] 深色模式，跟随系统
 - [ ] 点击小图标规则跳转配置页
 - [ ] 异常配置检测
+- [ ] firefox 支持
+- [ ] 一键配置网站规则
+- [ ] http 协议支持账号密码
+- [ ] 数据同步
 
 ## 最后
 由于目前还在密集开发中，使用中有什么问题的话可随时到 https://github.com/proxy-rock/proxy-rock/issues 进行反馈。
