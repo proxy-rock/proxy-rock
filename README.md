@@ -51,7 +51,7 @@ https://chromewebstore.google.com/detail/proxy-rock/dkeknkogllphlkmcfdjllhpbpnmk
 - [ ] 深色模式，跟随系统
 - [ ] 点击小图标规则跳转配置页
 - [ ] 异常配置检测
-- [ ] firefox 支持
+- [ ] firefox/edge 支持
 - [ ] 一键配置网站规则
 - [ ] http 协议支持账号密码
 - [ ] 数据同步
